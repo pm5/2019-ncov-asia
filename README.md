@@ -1,6 +1,6 @@
-# Herstory of East Asia
+# 2019 Novel Coronavirus of East Asia
 
-[https://herstory-of-east-asia.netlify.com/](https://herstory-of-east-asia.netlify.com/)
+[https://2019-ncov-asia.netlify.com/](https://2019-ncov-asia.netlify.com/)
 
 ## Development
 
@@ -17,3 +17,8 @@ $ npx gatsby develop
 
 ### Deploy Production
 Merge to @master branch.
+
+## Disclaimer
+
+The code and timeline data format is cloned from: [Herstory of East Asia](https://herstory-of-east-asia.netlify.com/).
+
